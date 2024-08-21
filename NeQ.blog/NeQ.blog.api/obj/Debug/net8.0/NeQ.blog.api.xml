@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NeQ.blog.api</name>
+    </assembly>
+    <members>
+        <member name="T:NeQ.blog.api.Controllers.AccountController">
+            <summary>
+            账号控制器
+            </summary>
+        </member>
+        <member name="M:NeQ.blog.api.Controllers.AccountController.#ctor(NeQ.blog.Model.BlogContext)">
+            <summary>
+            构造函数依赖注入
+            </summary>
+        </member>
+        <member name="M:NeQ.blog.api.Controllers.AccountController.Login(System.String,System.String)">
+            <summary>
+            登录
+            </summary>s
+        </member>
+        <member name="M:NeQ.blog.api.Controllers.AccountController.Logout">
+            <summary>
+            登出
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:NeQ.blog.api.Controllers.BlogController">
+            <summary>
+            博客控制器
+            </summary>
+        </member>
+        <member name="M:NeQ.blog.api.Controllers.BlogController.#ctor(NeQ.blog.Model.BlogContext)">
+            <summary>
+            构造函数依赖注入
+            </summary>
+        </member>
+        <member name="M:NeQ.blog.api.Controllers.BlogController.AddB(System.String,System.String,System.String,System.String[],System.String[])">
+            <summary>
+            添加一个博客
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:NeQ.blog.api.Controllers.BlogController.GetB">
+            <summary>
+            获取所有博客
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:NeQ.blog.api.Controllers.BlogController.GetBlogInfo">
+            <summary>
+            获取所有博客部分信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:NeQ.blog.api.Controllers.BlogController.LikeB(System.String)">
+            <summary>
+            点赞帖子
+            </summary>
+            <param name="blog_id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:NeQ.blog.api.Controllers.BlogController.DislikeB(System.String)">
+            <summary>
+            取消点赞
+            </summary>
+            <param name="blog_id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:NeQ.blog.api.Controllers.BlogController.CollectB(System.String,System.String)">
+            <summary>
+            收藏帖子
+            </summary>
+            <param name="blog_id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:NeQ.blog.api.Controllers.BlogController.DisCollectB(System.String,System.String)">
+            <summary>
+            取消收藏
+            </summary>
+            <param name="blog_id"></param>
+            <param name="user_id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:NeQ.blog.api.Controllers.BlogController.GetTopBlogInfo">
+            <summary>
+            获取排行前20的帖子部分信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:NeQ.blog.api.Controllers.BlogController.GetB(System.String)">
+            <summary>
+            获取指定博客的信息
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:NeQ.blog.api.Controllers.BlogController.UpdateB(NeQ.blog.Model.Blog)">
+            <summary>
+            更新某个博客的信息,old
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:NeQ.blog.api.Controllers.BlogController.DeleteB(System.String)">
+            <summary>
+            删除博客,根据给定id删除某个博客
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:NeQ.blog.api.Controllers.CaptchaController">
+            <summary>
+            控制器用于生成和验证验证码
+            </summary>
+        </member>
+        <member name="M:NeQ.blog.api.Controllers.CaptchaController.#ctor(Microsoft.Extensions.Caching.Memory.IMemoryCache,EmailService)">
+            <summary>
+            依赖注入
+            </summary>
+        </member>
+        <member name="M:NeQ.blog.api.Controllers.CaptchaController.RequestEmailCaptcha(System.String)">
+            <summary>
+            请求邮箱验证码
+            </summary>
+            <param name="email">目标邮箱</param>
+            <returns>注册操作ID</returns>
+        </member>
+        <member name="T:NeQ.blog.api.Controllers.UserController">
+            <summary>
+            用户控制器
+            </summary>
+        </member>
+        <member name="M:NeQ.blog.api.Controllers.UserController.#ctor(NeQ.blog.Model.BlogContext,Microsoft.Extensions.Caching.Memory.IMemoryCache)">
+            <summary>
+            构造函数依赖注入
+            </summary>
+        </member>
+        <member name="M:NeQ.blog.api.Controllers.UserController.AddU(System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            添加一个用户
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:NeQ.blog.api.Controllers.UserController.GetU">
+            <summary>
+            获取所有用户
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:NeQ.blog.api.Controllers.UserController.GetAU(System.String)">
+            <summary>
+            获取指定id用户
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:NeQ.blog.api.Controllers.UserController.UpdateU(System.String,System.String,System.String)">
+            <summary>
+            更新某个用户的信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:NeQ.blog.api.Controllers.UserController.DeleteU(System.String)">
+            <summary>
+            删除某个用户
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

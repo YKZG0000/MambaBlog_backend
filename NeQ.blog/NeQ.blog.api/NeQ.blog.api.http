@@ -1,0 +1,6 @@
+@NeQ.blog.api_HostAddress = http://localhost:5041
+
+GET {{NeQ.blog.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
