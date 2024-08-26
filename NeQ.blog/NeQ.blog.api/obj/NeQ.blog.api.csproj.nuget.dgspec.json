@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.api\\NeQ.blog.api.csproj": {}
+    "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.api\\NeQ.blog.api.csproj": {}
   },
   "projects": {
-    "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.api\\NeQ.blog.api.csproj": {
+    "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.api\\NeQ.blog.api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.api\\NeQ.blog.api.csproj",
+        "projectUniqueName": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.api\\NeQ.blog.api.csproj",
         "projectName": "NeQ.blog.api",
-        "projectPath": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.api\\NeQ.blog.api.csproj",
+        "projectPath": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.api\\NeQ.blog.api.csproj",
         "packagesPath": "C:\\Users\\YuNeko\\.nuget\\packages\\",
-        "outputPath": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.api\\obj\\",
+        "outputPath": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Users\\YuNeko\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder",
@@ -35,11 +35,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.Common\\NeQ.blog.Common.csproj": {
-                "projectPath": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.Common\\NeQ.blog.Common.csproj"
+              "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.Common\\NeQ.blog.Common.csproj": {
+                "projectPath": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.Common\\NeQ.blog.Common.csproj"
               },
-              "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.Model\\NeQ.blog.Model.csproj": {
-                "projectPath": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.Model\\NeQ.blog.Model.csproj"
+              "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.Model\\NeQ.blog.Model.csproj": {
+                "projectPath": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.Model\\NeQ.blog.Model.csproj"
               }
             }
           }
@@ -70,6 +70,10 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.8, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.21.0, )"
             },
             "MimeKit": {
               "target": "Package",
@@ -103,14 +107,14 @@
         }
       }
     },
-    "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.Common\\NeQ.blog.Common.csproj": {
+    "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.Common\\NeQ.blog.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.Common\\NeQ.blog.Common.csproj",
+        "projectUniqueName": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.Common\\NeQ.blog.Common.csproj",
         "projectName": "NeQ.blog.Common",
-        "projectPath": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.Common\\NeQ.blog.Common.csproj",
+        "projectPath": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.Common\\NeQ.blog.Common.csproj",
         "packagesPath": "C:\\Users\\YuNeko\\.nuget\\packages\\",
-        "outputPath": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.Common\\obj\\",
+        "outputPath": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Users\\YuNeko\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder",
@@ -184,14 +188,14 @@
         }
       }
     },
-    "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.Model\\NeQ.blog.Model.csproj": {
+    "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.Model\\NeQ.blog.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.Model\\NeQ.blog.Model.csproj",
+        "projectUniqueName": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.Model\\NeQ.blog.Model.csproj",
         "projectName": "NeQ.blog.Model",
-        "projectPath": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.Model\\NeQ.blog.Model.csproj",
+        "projectPath": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.Model\\NeQ.blog.Model.csproj",
         "packagesPath": "C:\\Users\\YuNeko\\.nuget\\packages\\",
-        "outputPath": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.Model\\obj\\",
+        "outputPath": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Users\\YuNeko\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder",
@@ -215,8 +219,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.Common\\NeQ.blog.Common.csproj": {
-                "projectPath": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.Common\\NeQ.blog.Common.csproj"
+              "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.Common\\NeQ.blog.Common.csproj": {
+                "projectPath": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.Common\\NeQ.blog.Common.csproj"
               }
             }
           }

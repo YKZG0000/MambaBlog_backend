@@ -47,6 +47,42 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "NeQ.blog.api.Controllers.ResponseController",
+    "Method": "AddR",
+    "RelativePath": "api/Response/AddResponse",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user_id",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "blog_id",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "content",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "NeQ.blog.api.Controllers.BlogController",
     "Method": "AddB",
     "RelativePath": "Blog/AddBlog",

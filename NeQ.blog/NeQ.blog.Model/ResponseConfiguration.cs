@@ -12,9 +12,9 @@ namespace NeQ.blog.Model
                 .HasForeignKey(r => r.AuthorID)
                 .OnDelete(DeleteBehavior.Restrict); // or DeleteBehavior.NoAction
 
-            builder.HasOne(r => r.Blog)
+            builder.HasOne(r => r.Target)
                 .WithMany()
-                .HasForeignKey(r => r.BlogID)
+                .HasForeignKey(r => r.TargetID)
                 .OnDelete(DeleteBehavior.Restrict); // or DeleteBehavior.NoAction
         }
     }

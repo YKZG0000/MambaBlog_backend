@@ -13,9 +13,9 @@ namespace NeQ.blog.Model
         public Guid AuthorID { get; set; }
         [ForeignKey("AuthorID")]
         public User? Author { get; set; }
-        public Guid BlogID { get; set; }
-        [ForeignKey("BlogID")]
-        public Blog? Blog { get; set; }
+        public Guid TargetID { get; set; }
+        [ForeignKey("TargetID")]
+        public Blog? Target { get; set; }
         public List<Guid>? NextResponseIDs { get; set; }
 
     }

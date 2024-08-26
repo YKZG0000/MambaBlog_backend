@@ -37,9 +37,10 @@ namespace NeQ.blog.api.Controllers
                 return NotFound(new { Message = "目标博客不存在或者当前用户异常" });
             }
             response.AuthorID = new System.Guid(user_id);
-            response.BlogID = new System.Guid(blog_id);
+            response.TargetID = new System.Guid(blog_id);
             response.Content = content;
             response.Like = 0;
+
             response.Reply = 0;
             response.NextResponseIDs = new List<Guid>();
             _context.Responses.Add(response);

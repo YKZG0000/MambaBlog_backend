@@ -124,6 +124,20 @@
             <param name="email">目标邮箱</param>
             <returns>注册操作ID</returns>
         </member>
+        <member name="M:NeQ.blog.api.Controllers.ResponseController.#ctor(NeQ.blog.Model.BlogContext)">
+            <summary>
+            构造函数依赖注入
+            </summary>
+        </member>
+        <member name="M:NeQ.blog.api.Controllers.ResponseController.AddR(System.String,System.String,System.String)">
+            <summary>
+            发表评论api
+            </summary>
+            <param name="user_id"></param>
+            <param name="blog_id"></param>
+            <param name="content"></param>
+            <returns></returns>
+        </member>
         <member name="T:NeQ.blog.api.Controllers.UserController">
             <summary>
             用户控制器

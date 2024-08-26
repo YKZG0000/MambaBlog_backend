@@ -1,81 +1,81 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\AlphaOmega\\ASP\\NeQ.blog\\",
+  "WorkspaceRootPath": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B737AAFF-1668-4C53-A94D-55E0293A903F}|NeQ.blog.api\\NeQ.blog.api.csproj|d:\\alphaomega\\asp\\neq.blog\\neq.blog.api\\controllers\\responsecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B737AAFF-1668-4C53-A94D-55E0293A903F}|NeQ.blog.api\\NeQ.blog.api.csproj|solutionrelative:neq.blog.api\\controllers\\responsecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B737AAFF-1668-4C53-A94D-55E0293A903F}|NeQ.blog.api\\NeQ.blog.api.csproj|d:\\alphaomega\\asp\\neq.blog\\neq.blog.api\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B737AAFF-1668-4C53-A94D-55E0293A903F}|NeQ.blog.api\\NeQ.blog.api.csproj|d:\\alphaomega\\mambablog_backend\\neq.blog\\neq.blog.api\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B737AAFF-1668-4C53-A94D-55E0293A903F}|NeQ.blog.api\\NeQ.blog.api.csproj|solutionrelative:neq.blog.api\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B737AAFF-1668-4C53-A94D-55E0293A903F}|NeQ.blog.api\\NeQ.blog.api.csproj|d:\\alphaomega\\asp\\neq.blog\\neq.blog.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B737AAFF-1668-4C53-A94D-55E0293A903F}|NeQ.blog.api\\NeQ.blog.api.csproj|solutionrelative:neq.blog.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6355A84-B680-4B72-8084-A00D6435CA83}|NeQ.blog.Model\\NeQ.blog.Model.csproj|d:\\alphaomega\\asp\\neq.blog\\neq.blog.model\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6355A84-B680-4B72-8084-A00D6435CA83}|NeQ.blog.Model\\NeQ.blog.Model.csproj|solutionrelative:neq.blog.model\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6355A84-B680-4B72-8084-A00D6435CA83}|NeQ.blog.Model\\NeQ.blog.Model.csproj|d:\\alphaomega\\asp\\neq.blog\\neq.blog.model\\nextresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6355A84-B680-4B72-8084-A00D6435CA83}|NeQ.blog.Model\\NeQ.blog.Model.csproj|solutionrelative:neq.blog.model\\nextresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6355A84-B680-4B72-8084-A00D6435CA83}|NeQ.blog.Model\\NeQ.blog.Model.csproj|d:\\alphaomega\\asp\\neq.blog\\neq.blog.model\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6355A84-B680-4B72-8084-A00D6435CA83}|NeQ.blog.Model\\NeQ.blog.Model.csproj|solutionrelative:neq.blog.model\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6355A84-B680-4B72-8084-A00D6435CA83}|NeQ.blog.Model\\NeQ.blog.Model.csproj|d:\\alphaomega\\asp\\neq.blog\\neq.blog.model\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6355A84-B680-4B72-8084-A00D6435CA83}|NeQ.blog.Model\\NeQ.blog.Model.csproj|solutionrelative:neq.blog.model\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6355A84-B680-4B72-8084-A00D6435CA83}|NeQ.blog.Model\\NeQ.blog.Model.csproj|d:\\alphaomega\\asp\\neq.blog\\neq.blog.model\\responseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6355A84-B680-4B72-8084-A00D6435CA83}|NeQ.blog.Model\\NeQ.blog.Model.csproj|solutionrelative:neq.blog.model\\responseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B737AAFF-1668-4C53-A94D-55E0293A903F}|NeQ.blog.api\\NeQ.blog.api.csproj|d:\\alphaomega\\asp\\neq.blog\\neq.blog.api\\controllers\\captchacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B737AAFF-1668-4C53-A94D-55E0293A903F}|NeQ.blog.api\\NeQ.blog.api.csproj|d:\\alphaomega\\mambablog_backend\\neq.blog\\neq.blog.api\\controllers\\captchacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B737AAFF-1668-4C53-A94D-55E0293A903F}|NeQ.blog.api\\NeQ.blog.api.csproj|solutionrelative:neq.blog.api\\controllers\\captchacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6355A84-B680-4B72-8084-A00D6435CA83}|NeQ.blog.Model\\NeQ.blog.Model.csproj|d:\\alphaomega\\asp\\neq.blog\\neq.blog.model\\blogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6355A84-B680-4B72-8084-A00D6435CA83}|NeQ.blog.Model\\NeQ.blog.Model.csproj|solutionrelative:neq.blog.model\\blogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B737AAFF-1668-4C53-A94D-55E0293A903F}|NeQ.blog.api\\NeQ.blog.api.csproj|d:\\alphaomega\\mambablog_backend\\neq.blog\\neq.blog.api\\controllers\\responsecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B737AAFF-1668-4C53-A94D-55E0293A903F}|NeQ.blog.api\\NeQ.blog.api.csproj|solutionrelative:neq.blog.api\\controllers\\responsecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B737AAFF-1668-4C53-A94D-55E0293A903F}|NeQ.blog.api\\NeQ.blog.api.csproj|d:\\alphaomega\\asp\\neq.blog\\neq.blog.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B737AAFF-1668-4C53-A94D-55E0293A903F}|NeQ.blog.api\\NeQ.blog.api.csproj|solutionrelative:neq.blog.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6355A84-B680-4B72-8084-A00D6435CA83}|NeQ.blog.Model\\NeQ.blog.Model.csproj|d:\\alphaomega\\mambablog_backend\\neq.blog\\neq.blog.model\\nextresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6355A84-B680-4B72-8084-A00D6435CA83}|NeQ.blog.Model\\NeQ.blog.Model.csproj|solutionrelative:neq.blog.model\\nextresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B737AAFF-1668-4C53-A94D-55E0293A903F}|NeQ.blog.api\\NeQ.blog.api.csproj|d:\\alphaomega\\asp\\neq.blog\\neq.blog.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B737AAFF-1668-4C53-A94D-55E0293A903F}|NeQ.blog.api\\NeQ.blog.api.csproj|solutionrelative:neq.blog.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B737AAFF-1668-4C53-A94D-55E0293A903F}|NeQ.blog.api\\NeQ.blog.api.csproj|d:\\alphaomega\\mambablog_backend\\neq.blog\\neq.blog.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B737AAFF-1668-4C53-A94D-55E0293A903F}|NeQ.blog.api\\NeQ.blog.api.csproj|solutionrelative:neq.blog.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6355A84-B680-4B72-8084-A00D6435CA83}|NeQ.blog.Model\\NeQ.blog.Model.csproj|d:\\alphaomega\\asp\\neq.blog\\neq.blog.model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6355A84-B680-4B72-8084-A00D6435CA83}|NeQ.blog.Model\\NeQ.blog.Model.csproj|solutionrelative:neq.blog.model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B737AAFF-1668-4C53-A94D-55E0293A903F}|NeQ.blog.api\\NeQ.blog.api.csproj|d:\\alphaomega\\asp\\neq.blog\\neq.blog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B737AAFF-1668-4C53-A94D-55E0293A903F}|NeQ.blog.api\\NeQ.blog.api.csproj|solutionrelative:neq.blog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6355A84-B680-4B72-8084-A00D6435CA83}|NeQ.blog.Model\\NeQ.blog.Model.csproj|d:\\alphaomega\\asp\\neq.blog\\neq.blog.model\\blogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6355A84-B680-4B72-8084-A00D6435CA83}|NeQ.blog.Model\\NeQ.blog.Model.csproj|solutionrelative:neq.blog.model\\blogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23C7BF20-A808-4942-B08F-9DE090B1DA3E}|NeQ.blog.Common\\NeQ.blog.Common.csproj|d:\\alphaomega\\asp\\neq.blog\\neq.blog.common\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23C7BF20-A808-4942-B08F-9DE090B1DA3E}|NeQ.blog.Common\\NeQ.blog.Common.csproj|solutionrelative:neq.blog.common\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6355A84-B680-4B72-8084-A00D6435CA83}|NeQ.blog.Model\\NeQ.blog.Model.csproj|d:\\alphaomega\\asp\\neq.blog\\neq.blog.model\\neq.blog.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{E6355A84-B680-4B72-8084-A00D6435CA83}|NeQ.blog.Model\\NeQ.blog.Model.csproj|d:\\alphaomega\\mambablog_backend\\neq.blog\\neq.blog.model\\neq.blog.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{E6355A84-B680-4B72-8084-A00D6435CA83}|NeQ.blog.Model\\NeQ.blog.Model.csproj|solutionrelative:neq.blog.model\\neq.blog.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23C7BF20-A808-4942-B08F-9DE090B1DA3E}|NeQ.blog.Common\\NeQ.blog.Common.csproj|d:\\alphaomega\\asp\\neq.blog\\neq.blog.common\\neq.blog.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{E6355A84-B680-4B72-8084-A00D6435CA83}|NeQ.blog.Model\\NeQ.blog.Model.csproj|d:\\alphaomega\\mambablog_backend\\neq.blog\\neq.blog.model\\blogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6355A84-B680-4B72-8084-A00D6435CA83}|NeQ.blog.Model\\NeQ.blog.Model.csproj|solutionrelative:neq.blog.model\\blogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6355A84-B680-4B72-8084-A00D6435CA83}|NeQ.blog.Model\\NeQ.blog.Model.csproj|d:\\alphaomega\\mambablog_backend\\neq.blog\\neq.blog.model\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6355A84-B680-4B72-8084-A00D6435CA83}|NeQ.blog.Model\\NeQ.blog.Model.csproj|solutionrelative:neq.blog.model\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6355A84-B680-4B72-8084-A00D6435CA83}|NeQ.blog.Model\\NeQ.blog.Model.csproj|d:\\alphaomega\\mambablog_backend\\neq.blog\\neq.blog.model\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6355A84-B680-4B72-8084-A00D6435CA83}|NeQ.blog.Model\\NeQ.blog.Model.csproj|solutionrelative:neq.blog.model\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B737AAFF-1668-4C53-A94D-55E0293A903F}|NeQ.blog.api\\NeQ.blog.api.csproj|d:\\alphaomega\\mambablog_backend\\neq.blog\\neq.blog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B737AAFF-1668-4C53-A94D-55E0293A903F}|NeQ.blog.api\\NeQ.blog.api.csproj|solutionrelative:neq.blog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6355A84-B680-4B72-8084-A00D6435CA83}|NeQ.blog.Model\\NeQ.blog.Model.csproj|d:\\alphaomega\\mambablog_backend\\neq.blog\\neq.blog.model\\responseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6355A84-B680-4B72-8084-A00D6435CA83}|NeQ.blog.Model\\NeQ.blog.Model.csproj|solutionrelative:neq.blog.model\\responseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6355A84-B680-4B72-8084-A00D6435CA83}|NeQ.blog.Model\\NeQ.blog.Model.csproj|d:\\alphaomega\\mambablog_backend\\neq.blog\\neq.blog.model\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6355A84-B680-4B72-8084-A00D6435CA83}|NeQ.blog.Model\\NeQ.blog.Model.csproj|solutionrelative:neq.blog.model\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B737AAFF-1668-4C53-A94D-55E0293A903F}|NeQ.blog.api\\NeQ.blog.api.csproj|d:\\alphaomega\\mambablog_backend\\neq.blog\\neq.blog.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B737AAFF-1668-4C53-A94D-55E0293A903F}|NeQ.blog.api\\NeQ.blog.api.csproj|solutionrelative:neq.blog.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B737AAFF-1668-4C53-A94D-55E0293A903F}|NeQ.blog.api\\NeQ.blog.api.csproj|d:\\alphaomega\\mambablog_backend\\neq.blog\\neq.blog.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B737AAFF-1668-4C53-A94D-55E0293A903F}|NeQ.blog.api\\NeQ.blog.api.csproj|solutionrelative:neq.blog.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B737AAFF-1668-4C53-A94D-55E0293A903F}|NeQ.blog.api\\NeQ.blog.api.csproj|d:\\alphaomega\\mambablog_backend\\neq.blog\\neq.blog.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B737AAFF-1668-4C53-A94D-55E0293A903F}|NeQ.blog.api\\NeQ.blog.api.csproj|solutionrelative:neq.blog.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6355A84-B680-4B72-8084-A00D6435CA83}|NeQ.blog.Model\\NeQ.blog.Model.csproj|d:\\alphaomega\\mambablog_backend\\neq.blog\\neq.blog.model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6355A84-B680-4B72-8084-A00D6435CA83}|NeQ.blog.Model\\NeQ.blog.Model.csproj|solutionrelative:neq.blog.model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C7BF20-A808-4942-B08F-9DE090B1DA3E}|NeQ.blog.Common\\NeQ.blog.Common.csproj|d:\\alphaomega\\mambablog_backend\\neq.blog\\neq.blog.common\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C7BF20-A808-4942-B08F-9DE090B1DA3E}|NeQ.blog.Common\\NeQ.blog.Common.csproj|solutionrelative:neq.blog.common\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C7BF20-A808-4942-B08F-9DE090B1DA3E}|NeQ.blog.Common\\NeQ.blog.Common.csproj|d:\\alphaomega\\mambablog_backend\\neq.blog\\neq.blog.common\\neq.blog.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{23C7BF20-A808-4942-B08F-9DE090B1DA3E}|NeQ.blog.Common\\NeQ.blog.Common.csproj|solutionrelative:neq.blog.common\\neq.blog.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B737AAFF-1668-4C53-A94D-55E0293A903F}|NeQ.blog.api\\NeQ.blog.api.csproj|d:\\alphaomega\\asp\\neq.blog\\neq.blog.api\\neq.blog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{B737AAFF-1668-4C53-A94D-55E0293A903F}|NeQ.blog.api\\NeQ.blog.api.csproj|d:\\alphaomega\\mambablog_backend\\neq.blog\\neq.blog.api\\neq.blog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{B737AAFF-1668-4C53-A94D-55E0293A903F}|NeQ.blog.api\\NeQ.blog.api.csproj|solutionrelative:neq.blog.api\\neq.blog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -86,15 +86,66 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.api\\Dockerfile",
+              "RelativeDocumentMoniker": "NeQ.blog.api\\Dockerfile",
+              "ToolTip": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.api\\Dockerfile",
+              "RelativeToolTip": "NeQ.blog.api\\Dockerfile",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-22T11:59:40.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResponseController.cs",
+              "DocumentMoniker": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.api\\Controllers\\ResponseController.cs",
+              "RelativeDocumentMoniker": "NeQ.blog.api\\Controllers\\ResponseController.cs",
+              "ToolTip": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.api\\Controllers\\ResponseController.cs",
+              "RelativeToolTip": "NeQ.blog.api\\Controllers\\ResponseController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAtwCcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T01:42:45.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NeQ.blog.Model.csproj",
+              "DocumentMoniker": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.Model\\NeQ.blog.Model.csproj",
+              "RelativeDocumentMoniker": "NeQ.blog.Model\\NeQ.blog.Model.csproj",
+              "ToolTip": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.Model\\NeQ.blog.Model.csproj",
+              "RelativeToolTip": "NeQ.blog.Model\\NeQ.blog.Model.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-15T01:53:56.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NextResponse.cs",
+              "DocumentMoniker": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.Model\\NextResponse.cs",
+              "RelativeDocumentMoniker": "NeQ.blog.Model\\NextResponse.cs",
+              "ToolTip": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.Model\\NextResponse.cs",
+              "RelativeToolTip": "NeQ.blog.Model\\NextResponse.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:46:08.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CaptchaController.cs",
-              "DocumentMoniker": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.api\\Controllers\\CaptchaController.cs",
+              "DocumentMoniker": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.api\\Controllers\\CaptchaController.cs",
               "RelativeDocumentMoniker": "NeQ.blog.api\\Controllers\\CaptchaController.cs",
-              "ToolTip": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.api\\Controllers\\CaptchaController.cs",
+              "ToolTip": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.api\\Controllers\\CaptchaController.cs",
               "RelativeToolTip": "NeQ.blog.api\\Controllers\\CaptchaController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -104,100 +155,119 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ResponseController.cs",
-              "DocumentMoniker": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.api\\Controllers\\ResponseController.cs",
-              "RelativeDocumentMoniker": "NeQ.blog.api\\Controllers\\ResponseController.cs",
-              "ToolTip": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.api\\Controllers\\ResponseController.cs",
-              "RelativeToolTip": "NeQ.blog.api\\Controllers\\ResponseController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAA9wCQAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T01:42:45.974Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Message.cs",
-              "DocumentMoniker": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.Model\\Message.cs",
-              "RelativeDocumentMoniker": "NeQ.blog.Model\\Message.cs",
-              "ToolTip": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.Model\\Message.cs",
-              "RelativeToolTip": "NeQ.blog.Model\\Message.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T11:21:04.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "BlogDto.cs",
-              "DocumentMoniker": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.Model\\BlogDto.cs",
-              "RelativeDocumentMoniker": "NeQ.blog.Model\\BlogDto.cs",
-              "ToolTip": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.Model\\BlogDto.cs",
-              "RelativeToolTip": "NeQ.blog.Model\\BlogDto.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAcwBcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T08:20:34.094Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.api\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "NeQ.blog.api\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.api\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "NeQ.blog.api\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAQwCAAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T03:53:20.89Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.api\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "NeQ.blog.api\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.api\\Controllers\\UserController.cs",
-              "RelativeToolTip": "NeQ.blog.api\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAYwDUAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T03:25:14.327Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ResponseConfiguration.cs",
-              "DocumentMoniker": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.Model\\ResponseConfiguration.cs",
-              "RelativeDocumentMoniker": "NeQ.blog.Model\\ResponseConfiguration.cs",
-              "ToolTip": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.Model\\ResponseConfiguration.cs",
-              "RelativeToolTip": "NeQ.blog.Model\\ResponseConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T03:06:01.663Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "BlogController.cs",
-              "DocumentMoniker": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.api\\Controllers\\BlogController.cs",
+              "DocumentMoniker": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.api\\Controllers\\BlogController.cs",
               "RelativeDocumentMoniker": "NeQ.blog.api\\Controllers\\BlogController.cs",
-              "ToolTip": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.api\\Controllers\\BlogController.cs",
+              "ToolTip": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.api\\Controllers\\BlogController.cs",
               "RelativeToolTip": "NeQ.blog.api\\Controllers\\BlogController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAkwB4AAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAHEAAAAAAAAAAADgv3UAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-16T19:07:51.639Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.api\\Program.cs",
+              "RelativeDocumentMoniker": "NeQ.blog.api\\Program.cs",
+              "ToolTip": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.api\\Program.cs",
+              "RelativeToolTip": "NeQ.blog.api\\Program.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwEMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T01:35:59.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.Model\\Blog.cs",
+              "RelativeDocumentMoniker": "NeQ.blog.Model\\Blog.cs",
+              "ToolTip": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.Model\\Blog.cs",
+              "RelativeToolTip": "NeQ.blog.Model\\Blog.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T02:01:08.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResponseConfiguration.cs",
+              "DocumentMoniker": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.Model\\ResponseConfiguration.cs",
+              "RelativeDocumentMoniker": "NeQ.blog.Model\\ResponseConfiguration.cs",
+              "ToolTip": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.Model\\ResponseConfiguration.cs",
+              "RelativeToolTip": "NeQ.blog.Model\\ResponseConfiguration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAjwA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T03:06:01.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlogContext.cs",
+              "DocumentMoniker": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.Model\\BlogContext.cs",
+              "RelativeDocumentMoniker": "NeQ.blog.Model\\BlogContext.cs",
+              "ToolTip": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.Model\\BlogContext.cs",
+              "RelativeToolTip": "NeQ.blog.Model\\BlogContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA0wBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T01:51:24.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Response.cs",
+              "DocumentMoniker": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.Model\\Response.cs",
+              "RelativeDocumentMoniker": "NeQ.blog.Model\\Response.cs",
+              "ToolTip": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.Model\\Response.cs",
+              "RelativeToolTip": "NeQ.blog.Model\\Response.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T02:02:40.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Message.cs",
+              "DocumentMoniker": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.Model\\Message.cs",
+              "RelativeDocumentMoniker": "NeQ.blog.Model\\Message.cs",
+              "ToolTip": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.Model\\Message.cs",
+              "RelativeToolTip": "NeQ.blog.Model\\Message.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T11:21:04.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "NeQ.blog.api\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "NeQ.blog.api\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAYwDUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T03:25:14.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.api\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "NeQ.blog.api\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.api\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "NeQ.blog.api\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T03:53:20.89Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 17,
               "Title": "NeQ.blog.Common.csproj",
-              "DocumentMoniker": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.Common\\NeQ.blog.Common.csproj",
+              "DocumentMoniker": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.Common\\NeQ.blog.Common.csproj",
               "RelativeDocumentMoniker": "NeQ.blog.Common\\NeQ.blog.Common.csproj",
-              "ToolTip": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.Common\\NeQ.blog.Common.csproj",
+              "ToolTip": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.Common\\NeQ.blog.Common.csproj",
               "RelativeToolTip": "NeQ.blog.Common\\NeQ.blog.Common.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -205,50 +275,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NextResponse.cs",
-              "DocumentMoniker": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.Model\\NextResponse.cs",
-              "RelativeDocumentMoniker": "NeQ.blog.Model\\NextResponse.cs",
-              "ToolTip": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.Model\\NextResponse.cs",
-              "RelativeToolTip": "NeQ.blog.Model\\NextResponse.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T04:46:08.952Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Response.cs",
-              "DocumentMoniker": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.Model\\Response.cs",
-              "RelativeDocumentMoniker": "NeQ.blog.Model\\Response.cs",
-              "ToolTip": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.Model\\Response.cs",
-              "RelativeToolTip": "NeQ.blog.Model\\Response.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA9wAsAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T02:02:40.857Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Blog.cs",
-              "DocumentMoniker": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.Model\\Blog.cs",
-              "RelativeDocumentMoniker": "NeQ.blog.Model\\Blog.cs",
-              "ToolTip": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.Model\\Blog.cs",
-              "RelativeToolTip": "NeQ.blog.Model\\Blog.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAADwvxYAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T02:01:08.402Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "User.cs",
-              "DocumentMoniker": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.Model\\User.cs",
+              "DocumentMoniker": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.Model\\User.cs",
               "RelativeDocumentMoniker": "NeQ.blog.Model\\User.cs",
-              "ToolTip": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.Model\\User.cs",
+              "ToolTip": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.Model\\User.cs",
               "RelativeToolTip": "NeQ.blog.Model\\User.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAA9wA8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -258,9 +289,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "NeQ.blog.api.csproj",
-              "DocumentMoniker": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.api\\NeQ.blog.api.csproj",
+              "DocumentMoniker": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.api\\NeQ.blog.api.csproj",
               "RelativeDocumentMoniker": "NeQ.blog.api\\NeQ.blog.api.csproj",
-              "ToolTip": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.api\\NeQ.blog.api.csproj",
+              "ToolTip": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.api\\NeQ.blog.api.csproj",
               "RelativeToolTip": "NeQ.blog.api\\NeQ.blog.api.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -269,35 +300,10 @@
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "NeQ.blog.Model.csproj",
-              "DocumentMoniker": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.Model\\NeQ.blog.Model.csproj",
-              "RelativeDocumentMoniker": "NeQ.blog.Model\\NeQ.blog.Model.csproj",
-              "ToolTip": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.Model\\NeQ.blog.Model.csproj",
-              "RelativeToolTip": "NeQ.blog.Model\\NeQ.blog.Model.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-15T01:53:56.458Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BlogContext.cs",
-              "DocumentMoniker": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.Model\\BlogContext.cs",
-              "RelativeDocumentMoniker": "NeQ.blog.Model\\BlogContext.cs",
-              "ToolTip": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.Model\\BlogContext.cs",
-              "RelativeToolTip": "NeQ.blog.Model\\BlogContext.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAUwA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T01:51:24.023Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "Entity.cs",
-              "DocumentMoniker": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.Common\\Entity.cs",
+              "DocumentMoniker": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.Common\\Entity.cs",
               "RelativeDocumentMoniker": "NeQ.blog.Common\\Entity.cs",
-              "ToolTip": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.Common\\Entity.cs",
+              "ToolTip": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.Common\\Entity.cs",
               "RelativeToolTip": "NeQ.blog.Common\\Entity.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAzwAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -305,28 +311,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.api\\appsettings.json",
+              "DocumentMoniker": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.api\\appsettings.json",
               "RelativeDocumentMoniker": "NeQ.blog.api\\appsettings.json",
-              "ToolTip": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.api\\appsettings.json",
+              "ToolTip": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.api\\appsettings.json",
               "RelativeToolTip": "NeQ.blog.api\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-15T01:40:52.798Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.api\\Program.cs",
-              "RelativeDocumentMoniker": "NeQ.blog.api\\Program.cs",
-              "ToolTip": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.api\\Program.cs",
-              "RelativeToolTip": "NeQ.blog.api\\Program.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAjwEMAAABbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T01:35:59.987Z"
+              "WhenOpened": "2024-08-15T01:40:52.798Z"
             }
           ]
         }

@@ -392,11 +392,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.Common\\NeQ.blog.Common.csproj",
+      "projectUniqueName": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.Common\\NeQ.blog.Common.csproj",
       "projectName": "NeQ.blog.Common",
-      "projectPath": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.Common\\NeQ.blog.Common.csproj",
+      "projectPath": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.Common\\NeQ.blog.Common.csproj",
       "packagesPath": "C:\\Users\\YuNeko\\.nuget\\packages\\",
-      "outputPath": "D:\\AlphaOmega\\ASP\\NeQ.blog\\NeQ.blog.Common\\obj\\",
+      "outputPath": "D:\\AlphaOmega\\MambaBlog_backend\\NeQ.blog\\NeQ.blog.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Users\\YuNeko\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder",
