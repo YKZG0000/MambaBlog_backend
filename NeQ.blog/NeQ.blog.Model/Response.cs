@@ -16,7 +16,6 @@ namespace NeQ.blog.Model
         public Guid TargetID { get; set; }
         [ForeignKey("TargetID")]
         public Blog? Target { get; set; }
-        public List<Guid>? NextResponseIDs { get; set; }
 
     }
 }

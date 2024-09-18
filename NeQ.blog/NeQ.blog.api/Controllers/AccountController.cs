@@ -28,12 +28,12 @@ namespace NeQ.blog.api.Controllers
         [HttpPost("Login")]
         public async Task<IActionResult> Login(string account, string password)
         {
-            var res = await _context.Users.FirstOrDefaultAsync(x => x.account == account);
+            var res = await _context.Users.FirstOrDefaultAsync(x => x.Account == account);
             if (res == null) {
                 return NotFound(new { Message = "用户不存在" });
             }
             // 验证用户名和密码
-            if (account == res.account && password == res.password)
+            if (account == res.Account && password == res.Password)
             {
                 var claims = new List<Claim>
                 {

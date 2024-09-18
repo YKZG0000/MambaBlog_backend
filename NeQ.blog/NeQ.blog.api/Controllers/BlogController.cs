@@ -41,7 +41,6 @@ namespace NeQ.blog.api.Controllers
             b.Like = 0;
             b.Reply = 0;
             b.Collect = 0;
-            b.Responses = new List<Response>(); 
             _context.Blogs.Add(b);
             return await _context.SaveChangesAsync();
         }
@@ -115,6 +114,7 @@ namespace NeQ.blog.api.Controllers
         /// ÊÕ²ØÌû×Ó
         /// </summary>
         /// <param name="blog_id"></param>
+        /// <param name="user_id"></param>
         /// <returns></returns>
         [HttpPost("CollectBlog")]
         public async Task<ActionResult<int>> CollectB(string blog_id,string user_id)
@@ -186,9 +186,17 @@ namespace NeQ.blog.api.Controllers
         /// <param name="id"></param>
         /// <returns></returns>
         [HttpGet("GetBlogByID")]
-        public async Task<Blog> GetB(string id)
+        public async Task<Blog> GetB(string id, string user_id)
         {
-            return await _context.Blogs.AsNoTracking().FirstOrDefaultAsync(x => x.ID == Guid.Parse(id));
+            var blog = await _context.Blogs.FirstOrDefaultAsync(x => x.ID == Guid.Parse(id));
+            if (blog == null) return null;
+            blog.Watch++;
+            _context.Blogs.Update(blog);
+            var user = await _context.Users.FirstOrDefaultAsync(x => x.ID == Guid.Parse(user_id));
+            user.Broser.Add(blog.ID);
+            await _context.SaveChangesAsync();
+            var res = await _context.Blogs.FirstOrDefaultAsync(x => x.ID == Guid.Parse(id));
+            return res;
         }
 
         /// <summary>

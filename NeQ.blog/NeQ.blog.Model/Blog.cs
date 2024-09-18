@@ -19,10 +19,5 @@ namespace NeQ.blog.Model
         public Guid AuthorID { get; set; }
         [ForeignKey("AuthorID")]
         public User? Author { get; set; }
-
-        [InverseProperty("Target")]
-        public List<Response>? Responses { get; set; }
-
-
     }
 }

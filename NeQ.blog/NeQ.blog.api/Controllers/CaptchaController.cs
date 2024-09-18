@@ -39,7 +39,7 @@ namespace NeQ.blog.api.Controllers
 
             // 发送验证码到目标邮箱
             var subject = "Man ! What can i say ! ";
-            var body = $"你的「曼波论坛」验证码是: {captchaCode} ,验证码有效时间为5分钟,请尽快使用";
+            var body = $"Man! 你的「曼波论坛」验证码是: {captchaCode} ,验证码有效时间为5分钟,请尽快使用,Mamba out!";
             _emailService.SendEmail(email, subject, body);
             
 

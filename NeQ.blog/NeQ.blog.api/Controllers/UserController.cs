@@ -47,8 +47,8 @@ namespace NeQ.blog.api.Controllers
                 return BadRequest(new { Message = "验证码已过期或无效的操作ID" });
             }
             User user = new User();
-            user.account = account;
-            user.password = password;
+            user.Account = account;
+            user.Password = password;
             user.Name = name;
             user.Avatar = "";
             user.Blogs = new List<Blog>();
@@ -107,6 +107,54 @@ namespace NeQ.blog.api.Controllers
             if (e == null) return -1;
             _context.Users.Remove(e);
             return await _context.SaveChangesAsync();
+        }
+
+        /// <summary>
+        /// 关注用户
+        /// </summary>
+        /// <param name="user_id"></param>
+        /// <param name="follow_id"></param>
+        /// <returns></returns>
+        [HttpPost("FollowUser")]
+        [Authorize]
+        public async Task<ActionResult<int>> FollowU(string user_id, string follow_id)
+        {
+            var user = await _context.Users.FindAsync(new System.Guid(user_id));
+            var follow = await _context.Users.FindAsync(new System.Guid(follow_id));
+            if (user == null || follow == null)
+            {
+                return NotFound(new { Message = "目标用户不存在" });
+            }
+            user.Follows.Add(follow.ID);
+            follow.Fans.Add(user.ID);
+            _context.Users.Update(user);
+            _context.Users.Update(follow);
+            await _context.SaveChangesAsync();
+            return Ok(new { message = "关注成功" });
+        }
+
+        /// <summary>
+        /// 取消关注用户
+        /// </summary>
+        /// <param name="user_id"></param>
+        /// <param name="follow_id"></param>
+        /// <returns></returns>
+        [HttpPost("UnFollowUser")]
+        [Authorize]
+        public async Task<ActionResult<int>> UnFollowU(string user_id, string follow_id)
+        {
+            var user = await _context.Users.FindAsync(new System.Guid(user_id));
+            var follow = await _context.Users.FindAsync(new System.Guid(follow_id));
+            if (user == null || follow == null)
+            {
+                return NotFound(new { Message = "目标用户不存在" });
+            }
+            user.Follows.Remove(follow.ID);
+            follow.Fans.Remove(user.ID);
+            _context.Users.Update(user);
+            _context.Users.Update(follow);
+            await _context.SaveChangesAsync();
+            return Ok(new { message = "取消关注成功" });
         }
     }
 }

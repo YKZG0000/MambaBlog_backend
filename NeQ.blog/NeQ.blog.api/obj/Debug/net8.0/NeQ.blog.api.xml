@@ -72,6 +72,7 @@
             收藏帖子
             </summary>
             <param name="blog_id"></param>
+            <param name="user_id"></param>
             <returns></returns>
         </member>
         <member name="M:NeQ.blog.api.Controllers.BlogController.DisCollectB(System.String,System.String)">
@@ -124,6 +125,37 @@
             <param name="email">目标邮箱</param>
             <returns>注册操作ID</returns>
         </member>
+        <member name="T:NeQ.blog.api.Controllers.NextResponseController">
+            <summary>
+            二级评论控制器
+            </summary>
+        </member>
+        <member name="M:NeQ.blog.api.Controllers.NextResponseController.#ctor(NeQ.blog.Model.BlogContext)">
+            <summary>
+            构造函数依赖注入
+            </summary>
+        </member>
+        <member name="M:NeQ.blog.api.Controllers.NextResponseController.AddNR(System.String,System.String,System.String)">
+            <summary>
+            添加二级评论
+            </summary>
+            <param name="user_id"></param>
+            <param name="response_id"></param>
+            <param name="content"></param>
+            <returns></returns>
+        </member>
+        <member name="M:NeQ.blog.api.Controllers.NextResponseController.DeleteNR(System.String)">
+            <summary>
+            删除二级评论
+            </summary>
+            <param name="nextResponse_id"></param>
+            <returns></returns>
+        </member>
+        <member name="T:NeQ.blog.api.Controllers.ResponseController">
+            <summary>
+            评论控制器
+            </summary>
+        </member>
         <member name="M:NeQ.blog.api.Controllers.ResponseController.#ctor(NeQ.blog.Model.BlogContext)">
             <summary>
             构造函数依赖注入
@@ -136,6 +168,20 @@
             <param name="user_id"></param>
             <param name="blog_id"></param>
             <param name="content"></param>
+            <returns></returns>
+        </member>
+        <member name="M:NeQ.blog.api.Controllers.ResponseController.DeleteR(System.String)">
+            <summary>
+            删除评论api
+            </summary>
+            <param name="response_id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:NeQ.blog.api.Controllers.ResponseController.LikeR(System.String)">
+            <summary>
+            点赞评论api
+            </summary>
+            <param name="response_id"></param>
             <returns></returns>
         </member>
         <member name="T:NeQ.blog.api.Controllers.UserController">
