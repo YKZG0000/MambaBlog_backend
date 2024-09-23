@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NeQ.blog.Model")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7ad6311df680345bdd4b7ab5003ec82b8fe067d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ea6a0b6b7b60ebd93270e68b657e9dfe1e98437")]
 [assembly: System.Reflection.AssemblyProductAttribute("NeQ.blog.Model")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NeQ.blog.Model")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

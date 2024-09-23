@@ -89,14 +89,14 @@
             </summary>
             <returns></returns>
         </member>
-        <member name="M:NeQ.blog.api.Controllers.BlogController.GetB(System.String)">
+        <member name="M:NeQ.blog.api.Controllers.BlogController.GetB(System.String,System.String)">
             <summary>
             获取指定博客的信息
             </summary>
             <param name="id"></param>
             <returns></returns>
         </member>
-        <member name="M:NeQ.blog.api.Controllers.BlogController.UpdateB(NeQ.blog.Model.Blog)">
+        <member name="M:NeQ.blog.api.Controllers.BlogController.UpdateB(System.String,System.String,System.String,System.String,System.String[])">
             <summary>
             更新某个博客的信息,old
             </summary>
@@ -222,6 +222,22 @@
             <summary>
             删除某个用户
             </summary>
+            <returns></returns>
+        </member>
+        <member name="M:NeQ.blog.api.Controllers.UserController.FollowU(System.String,System.String)">
+            <summary>
+            关注用户
+            </summary>
+            <param name="user_id"></param>
+            <param name="follow_id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:NeQ.blog.api.Controllers.UserController.UnFollowU(System.String,System.String)">
+            <summary>
+            取消关注用户
+            </summary>
+            <param name="user_id"></param>
+            <param name="follow_id"></param>
             <returns></returns>
         </member>
     </members>

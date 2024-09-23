@@ -205,10 +205,16 @@ namespace NeQ.blog.api.Controllers
         /// <returns></returns>
         [HttpPut("UpdateBlog")]
         [Authorize]
-        public async Task<ActionResult<int>> UpdateB(Blog b)
+        public async Task<ActionResult<int>> UpdateB(string id,string title,string content, string image, string?[] tags)
         {
-            var res = await _context.Blogs.AsNoTracking().FirstOrDefaultAsync(x => x.ID == b.ID);
-            _context.Blogs.Update(b);
+            if (string.IsNullOrWhiteSpace(id)) return NotFound();
+            var e = await _context.Blogs.AsNoTracking().FirstOrDefaultAsync(x => x.ID == Guid.Parse(id));
+            if (e == null) return NotFound();
+            e.Title = title;
+            e.Content = content;
+            if (tags != null) e.Tags = tags;
+            e.Imgs = new string[] { image };
+            _context.Blogs.Update(e);
             return await _context.SaveChangesAsync();
         }
 

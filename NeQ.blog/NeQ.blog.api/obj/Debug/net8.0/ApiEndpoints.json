@@ -408,6 +408,11 @@
         "Name": "id",
         "Type": "System.String",
         "IsRequired": false
+      },
+      {
+        "Name": "user_id",
+        "Type": "System.String",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": [
@@ -477,8 +482,28 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "b",
-        "Type": "NeQ.blog.Model.Blog",
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "title",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "content",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "image",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "tags",
+        "Type": "System.String[]",
         "IsRequired": true
       }
     ],
@@ -568,6 +593,37 @@
   },
   {
     "ContainingType": "NeQ.blog.api.Controllers.UserController",
+    "Method": "FollowU",
+    "RelativePath": "User/FollowUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user_id",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "follow_id",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "NeQ.blog.api.Controllers.UserController",
     "Method": "GetU",
     "RelativePath": "User/GetAllUser",
     "HttpMethod": "GET",
@@ -603,6 +659,37 @@
     "ReturnTypes": [
       {
         "Type": "NeQ.blog.Model.User",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "NeQ.blog.api.Controllers.UserController",
+    "Method": "UnFollowU",
+    "RelativePath": "User/UnFollowUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user_id",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "follow_id",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
         "MediaTypes": [
           "text/plain",
           "application/json",
